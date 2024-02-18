@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="" />
+    <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/daily_picture/공동경비구역 JSA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/mysql/1.InnoDB如何解决幻读.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/mysql/2.B树和B+树的理解(1).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/mysql/3.为什么一线互联网公司严禁使用存储过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/mysql/4.Mysql中的RR级别到底有没有解决幻读问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/mysql/5.为什么Mysql的索引结构采用B+树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/mysql/6.聚簇索引和非聚簇索引.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/mysql/7.Mysql的事务隔离级别是什么.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/mysql/8.binlog和redolog有什么区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,19 +24,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2bQyTHPRZYM437zvxOFbVW12NFc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview/daily_picture&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview\daily_picture" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +54,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706161605268</updated>
+      <workItem from="1706161606862" duration="4462000" />
+      <workItem from="1706259809113" duration="3004000" />
+      <workItem from="1706509374934" duration="2520000" />
+      <workItem from="1708219507771" duration="18506000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
