@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/1.Java为什么不直接实现Iterator接口,而是实现Iterable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/2.简述什么是值传递和引用传递.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/3.Iterator和ListIterator的区别是什么.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/4.简述快速失败(fail-fast)和安全失败(fail-safe)的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/5.Java中exception和error有什么区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForFail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/forQuote/ForQuote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/forQuote/step1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/forQuote/step2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/forQuote/step3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/forQuote/step4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/forQuote/step5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/10.Java中的transient变量有什么作用和特点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/6.final、finalize、finally三者的区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/7.简述System.gc()和Runtime.gc()的作用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/8.throw和throws有什么区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/9.简述java中的隐式转换.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ForFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ForThrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/w.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,34 +42,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/kultimos/Java_Interview/daily_picture",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview/daily_picture&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.36666667&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\kultimos\Java_Interview\daily_picture" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.e">
-    <configuration name="ForFail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForFail" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ForFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForFinal" />
       <module name="Java_Interview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forQuote.ForQuote" />
+    <configuration name="ForThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForThrow" />
+      <module name="Java_Interview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Formain" />
+      <module name="Java_Interview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java_Interview" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,9 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ForThrow" />
+        <item itemvalue="Application.Formain" />
+        <item itemvalue="Application.ForFinal" />
         <item itemvalue="Application.e" />
-        <item itemvalue="Application.ForFail" />
-        <item itemvalue="Application.ForQuote" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +118,9 @@
       <workItem from="1706259809113" duration="3004000" />
       <workItem from="1706509374934" duration="2520000" />
       <workItem from="1708219507771" duration="26096000" />
-      <workItem from="1708321771305" duration="11826000" />
+      <workItem from="1708321771305" duration="12122000" />
+      <workItem from="1708392134612" duration="16659000" />
+      <workItem from="1708486562006" duration="1228000" />
     </task>
     <servers />
   </component>
