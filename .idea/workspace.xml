@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/10.Java中的transient变量有什么作用和特点.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/6.final、finalize、finally三者的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/7.简述System.gc()和Runtime.gc()的作用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/8.throw和throws有什么区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/9.简述java中的隐式转换.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/springboot/GetCandidateConfigurations方法的逻辑讲解辅助图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/springboot/去重示意图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/springboot/11.Springboot自动装配原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/springboot/12.解释一下Springboot的约定大于配置的概念.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/w.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview/daily_picture&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/megvii_work/tianshu/tianshu-master&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -58,6 +53,11 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\kultimos\Java_Interview\daily_picture" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview\images\springboot" />
+      <recent name="D:\kultimos\Java_Interview\images" />
+      <recent name="D:\kultimos\Java_Interview\interview_note\springboot" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -120,7 +120,12 @@
       <workItem from="1708219507771" duration="26096000" />
       <workItem from="1708321771305" duration="12122000" />
       <workItem from="1708392134612" duration="16659000" />
-      <workItem from="1708486562006" duration="1228000" />
+      <workItem from="1708486562006" duration="1338000" />
+      <workItem from="1708505280698" duration="250000" />
+      <workItem from="1708936271086" duration="996000" />
+      <workItem from="1709025478098" duration="1837000" />
+      <workItem from="1709263755561" duration="10781000" />
+      <workItem from="1709515571577" duration="1843000" />
     </task>
     <servers />
   </component>
