@@ -1,3 +1,5 @@
+package foundation;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -6,8 +8,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class ForFail {
     public static void main(String[] args) {
-        safeFailed();
-//        quickFailed();
+//        safeFailed();
+        quickFailed();
     }
 
     public static void quickFailed() {

@@ -1,10 +1,8 @@
-import java.util.StringTokenizer;
-
 public class Main {
     public static void main(String[] args) {
-        Integer a = new Integer(4999);
-        Integer c = new Integer(4999);
-        int b = 4999;
-        System.out.println(b == c);
+        String a = new String("a");
+        String b = new String("a");
+        System.out.println(a.hashCode());
+        System.out.println(b.hashCode());
     }
 }

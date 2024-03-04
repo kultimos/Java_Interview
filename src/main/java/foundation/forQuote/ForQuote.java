@@ -1,4 +1,4 @@
-package forQuote;
+package foundation.forQuote;
 
 public class ForQuote {
     public static void main(String[] args) {
