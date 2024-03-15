@@ -5,36 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/idea中JVM开启断言.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/11.Java中的assert(断言)是什么.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/12.请解释Switch()能否作用在byte、long、String上.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/13.解释什么是不可变对象(immutable object).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/14.能否创建一个包含可变对象的不可变对象吗.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/15.Java中WeakReference和SoftReference的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_foundation/16.Comparable和Comparator接口有何区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/foundation/ForAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/foundation/ForSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/foundation/ImmutableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/foundation/forCompare/forComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/foundation/forCompare/forComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily_picture/lillard_to_bucks_watch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/1.简述kafka基础架构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/2.简述kafka的工作流程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/3.请简述kafka的文件存储机制或kafka的存储方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/4.简述kafka的Partition写入策略.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/5.简述kafka的分区策略.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/6.解释一下AR、ISR、OSR、HW、LW、LEO、LSO的意义和作用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/7.解释一下CAP理论.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/8.kafka遵循着cap原则吗.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/9.kafka的消费者是pull还是push,具体选择的模式有什么好处.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/images/index&amp;log文件命名存储实例.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/images/index与log文件的对应关系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/images/kafka的存储系统示意图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md/record.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/java_foundation/1.Java为什么不直接实现Iterator接口,而是实现Iterable.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/java_foundation/1.Java为什么不直接实现Iterator接口,而是实现Iterable.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/java_foundation/2.简述什么是值传递和引用传递.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/java_foundation/2.简述什么是值传递和引用传递.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/java_foundation/4.简述快速失败(fail-fast)和安全失败(fail-safe)的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/java_foundation/4.简述快速失败(fail-fast)和安全失败(fail-safe)的区别.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/java_foundation/6.final、finalize、finally三者的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/java_foundation/6.final、finalize、finally三者的区别.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/java_foundation/8.throw和throws有什么区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/java_foundation/8.throw和throws有什么区别.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForFail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/ForFail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/ForFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/ForIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForThrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/ForThrow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forQuote/ForQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/forQuote/ForQuote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forQuote/step1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/forQuote/step1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forQuote/step2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/forQuote/step2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forQuote/step3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/forQuote/step3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forQuote/step4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/forQuote/step4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forQuote/step5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/forQuote/step5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/mysql/3.为什么一线互联网公司严禁使用存储过程.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/mysql/3.为什么一线互联网公司严禁使用存储过程(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/mysql/6.聚簇索引和非聚簇索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/mysql/6.聚簇索引和非聚簇索引(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/mysql/8.binlog和redolog有什么区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/mysql/8.binlog和redolog有什么区别(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/springboot/12.解释一下Springboot的约定大于配置的概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/0.tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/foundation/ForIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/ForIterator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,27 +52,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/megvii_work/tianshu/tianshu-master",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.36666667"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.36666667&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview" />
       <recent name="D:\kultimos\Java_Interview\daily_picture" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview\interview_note\kafka\images" />
+      <recent name="D:\kultimos\Java_Interview\quick_kafka_video_study\notes" />
+      <recent name="D:\kultimos\Java_Interview\quick_kafka_video_study\images" />
       <recent name="D:\kultimos\Java_Interview\images" />
       <recent name="D:\kultimos\Java_Interview\images\springboot" />
-      <recent name="D:\kultimos\Java_Interview\interview_note\springboot" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -172,7 +165,18 @@
       <workItem from="1709025478098" duration="1837000" />
       <workItem from="1709263755561" duration="10781000" />
       <workItem from="1709515571577" duration="2363000" />
-      <workItem from="1709519789892" duration="9800000" />
+      <workItem from="1709519789892" duration="9939000" />
+      <workItem from="1709706055029" duration="1629000" />
+      <workItem from="1709714673920" duration="6105000" />
+      <workItem from="1709779617605" duration="601000" />
+      <workItem from="1709795929766" duration="3908000" />
+      <workItem from="1709800450375" duration="5257000" />
+      <workItem from="1709866868829" duration="6102000" />
+      <workItem from="1710125029563" duration="967000" />
+      <workItem from="1710331605822" duration="2312000" />
+      <workItem from="1710334003633" duration="5000" />
+      <workItem from="1710381843870" duration="18802000" />
+      <workItem from="1710466053720" duration="1192000" />
     </task>
     <servers />
   </component>

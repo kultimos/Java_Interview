@@ -8,7 +8,7 @@ public class ForIterator {
         list.add("1");
         list.add("2");
         list.add("3");
-        list.add("4");
+        list.add("4.简述kafka的Partition写入策略.md");
         list.add("5");
         Iterator iterator1 = list.descendingIterator();
         while(iterator1.hasNext()) {
