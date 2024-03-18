@@ -5,26 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/daily_picture/lillard_to_bucks_watch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/1.简述kafka基础架构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/2.简述kafka的工作流程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/3.请简述kafka的文件存储机制或kafka的存储方案.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/4.简述kafka的Partition写入策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/5.简述kafka的分区策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/6.解释一下AR、ISR、OSR、HW、LW、LEO、LSO的意义和作用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/7.解释一下CAP理论.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/8.kafka遵循着cap原则吗.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/9.kafka的消费者是pull还是push,具体选择的模式有什么好处.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/images/index&amp;log文件命名存储实例.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/images/index与log文件的对应关系.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/kafka/images/kafka的存储系统示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/record.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/10.kafka和zookeeper之间的关系.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/11.kafka中的controller选举.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/12.介绍kafka中的脑裂问题以及解决方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/13.kafka中对副本leader的选举.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/14.kafka的副本follower和leader出现故障时,都是如何解决的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/15.如果kafka中的leader出现故障,那么kafka是如何处理故障的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/16.简述kafka的文件清理策略或日志保留策略或刷盘机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/17.解释什么是kafka的页缓冲PageCache.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/18.kafka的零拷贝.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/20.如何避免kafka中的消息重复消费.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/21.kafka是如何实现高吞吐率的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/kafka/22.kafka中为什么具有消息顺序性,又是如何体现消息顺序性或kafka如何保证消息消费的顺序.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/mysql/3.为什么一线互联网公司严禁使用存储过程.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/mysql/3.为什么一线互联网公司严禁使用存储过程(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/mysql/6.聚簇索引和非聚簇索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/mysql/6.聚簇索引和非聚簇索引(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/mysql/8.binlog和redolog有什么区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/mysql/8.binlog和redolog有什么区别(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/springboot/12.解释一下Springboot的约定大于配置的概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/0.tips.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/foundation/ForIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/ForIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/0.tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/0.tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/1.简述kafka基础架构.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/1.简述kafka基础架构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/2.简述kafka的工作流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/2.简述kafka的工作流程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/3.请简述kafka的文件存储机制或kafka的存储方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/3.请简述kafka的文件存储机制或kafka的存储方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/4.简述kafka的Partition写入策略.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/4.简述kafka的Partition写入策略.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/5.简述kafka的分区策略.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/5.简述kafka的分区策略.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/6.解释一下AR、ISR、OSR、HW、LW、LEO、LSO的意义和作用.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/6.解释一下AR、ISR、OSR、HW、LW、LEO、LSO的意义和作用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/7.解释一下CAP理论.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/7.解释一下CAP理论.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/8.kafka遵循着cap原则吗.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/8.kafka遵循着cap原则吗.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/kafka/9.kafka的消费者是pull还是push,具体选择的模式有什么好处.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/9.kafka的消费者是pull还是push,具体选择的模式有什么好处.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +180,9 @@
       <workItem from="1710331605822" duration="2312000" />
       <workItem from="1710334003633" duration="5000" />
       <workItem from="1710381843870" duration="18802000" />
-      <workItem from="1710466053720" duration="1192000" />
+      <workItem from="1710466053720" duration="2187000" />
+      <workItem from="1710488577437" duration="5678000" />
+      <workItem from="1710724660206" duration="17891000" />
     </task>
     <servers />
   </component>
