@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/interview_note/java_collections/1.哈希表底层采用何种算法计算hash值,还有哪些算法可以计算出hash值.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_collections/2.hashmap和hashtable之间的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/java_collections/E.hashMap学习.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/redis/1.简述redis的数据类型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/redis/2.解释一下redis单进程单线程的问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/redis/3.redis字符串类型的值能存储最大容量是多少.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/redis/4.阐述redis的持久化机制.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/redis/5.缓存击穿、缓存穿透、缓存雪崩的问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/redis/6.数据库和缓存不一致如何解决或Mysql和Redis的数据同步问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/redis/7.redis分布式锁的问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/redis/8.redis过期键的删除策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ToHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huawei_od_test/test_1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/kafka/15.如果kafka中的leader出现故障,那么kafka是如何处理故障的.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/kafka/15.kafka中为什么具有消息顺序性,又是如何体现消息顺序性或kafka如何保证消息消费的顺序.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/kafka/22.kafka中为什么具有消息顺序性,又是如何体现消息顺序性或kafka如何保证消息消费的顺序.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/9.简述java中的隐式转换.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/9.简述java中的隐式转换.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/21.kafka是如何实现高吞吐率的.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/21.kafka是如何实现高吞吐率的.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/3_java_collections/1.哈希表底层采用何种算法计算hash值,还有哪些算法可以计算出hash值.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/1.哈希表底层采用何种算法计算hash值,还有哪些算法可以计算出hash值.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/3_java_collections/E.hashMap学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/E.hashMap学习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/11.Springboot自动装配原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_springboot/11.Springboot自动装配原理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/2.解释一下redis单进程单线程的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/2.解释一下redis单进程单线程的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/7.redis分布式锁的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/7.redis分布式锁的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_record/record.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice_record/record.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview/daily_picture&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/megvii_work/mfrs/algo-mfrs&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -75,7 +69,7 @@
       <recent name="D:\kultimos\Java_Interview\images\springboot" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ToHashMap">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="ForFail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java.foundation.forQuote.ForFail" />
       <module name="Java_Interview" />
@@ -138,8 +132,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ToHashMap" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ToHashMap" />
         <item itemvalue="Application.forComparator" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ForFail" />
@@ -183,6 +177,10 @@
       <workItem from="1710811769809" duration="9590000" />
       <workItem from="1710898403155" duration="17321000" />
       <workItem from="1710983497367" duration="16977000" />
+      <workItem from="1711071248338" duration="13684000" />
+      <workItem from="1711098370001" duration="1653000" />
+      <workItem from="1711157731038" duration="1369000" />
+      <workItem from="1711349670597" duration="382000" />
     </task>
     <servers />
   </component>
@@ -203,11 +201,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.201-2/src.zip!/java/util/HashMap.java</url>
           <line>378</line>
