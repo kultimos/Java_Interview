@@ -5,34 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/huawei_od_test/Test3(自做成功)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huawei_od_test/Test4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/2.Lock和Synchronized的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/3.请你介绍一下synchronized的几种锁和锁升级情况.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/5.线程池的几个重要参数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/6.谈谈你对AQS的理解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/7.死锁的发生原因和如何避免死锁.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/huawei_od_test/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/huawei_od_test/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juc/LockInterruptExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juc/SynchronizedInterruptExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juc/ThreadPoolKnowEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huawei_od_test/Test6(40分钟自做成功)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/images/一致性hash示意图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/10.死锁的发生原因和如何避免死锁.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/11.谈一下CAS机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/12.volatile关键字有什么用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/5.线程池的几个重要参数和工作原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/6.线程池的拒绝策略.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/7.谈谈你对AQS的理解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/8.AQS为什么采用双向链表而不是单向链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/9.ConcurrentHashMap的底层原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/1.JVM内存模型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/2.JVM垃圾回收.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/huawei_od_test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/huawei_od_test/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/juc/ThreadFactoryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCallableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCountDownLatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolTaskExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream_test/1.求出List(Integer)中的最大值" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/16.简述kafka的文件清理策略或日志保留策略或刷盘机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/16.简述kafka的文件清理策略或日志保留策略或刷盘机制(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/2.简述kafka的工作流程(明早待改).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/2.简述kafka的工作流程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/20.如何避免kafka中的消息重复消费.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/20.如何避免kafka中的消息重复消费(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/4.简述kafka的Partition写入策略.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/4.简述kafka的Partition写入策略(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/11.Springboot自动装配原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_springboot/1.Springboot自动装配原理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/2.解释一下redis单进程单线程的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/2.解释一下redis单进程单线程的问题(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/4.阐述redis的持久化机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/4.阐述redis的持久化机制(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/5.缓存击穿、缓存穿透、缓存雪崩的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/5.缓存击穿、缓存穿透、缓存雪崩的问题(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/6.数据库和缓存不一致如何解决或Mysql和Redis的数据同步问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/6.数据库和缓存不一致如何解决或Mysql和Redis的数据同步问题(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_record/record.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice_record/record.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huawei_od_test/Test4" beforeDir="false" afterPath="$PROJECT_DIR$/huawei_od_test/Test4(自做成功)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/15.Java中WeakReference和SoftReference的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/15.Java中的四种引用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/5.线程池的几个重要参数.md" beforeDir="false" afterPath="$PROJECT_DIR$/huawei_od_test/Test5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/6.谈谈你对AQS的理解.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/17.什么是幂等,如何解决幂等性的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/7.死锁的发生原因和如何避免死锁.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/9.分布式存储算法.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/foundation/ForIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/ForIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juc/ThreadPoolKnowEnd.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,35 +60,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/megvii_work/mfrs/algo-mfrs",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.36666667"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.36666667&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\kultimos\Java_Interview\daily_picture" />
       <recent name="D:\kultimos\Java_Interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview\interview_note\6_redis\images" />
       <recent name="D:\kultimos\Java_Interview\interview_note\kafka\images" />
       <recent name="D:\kultimos\Java_Interview\quick_kafka_video_study\notes" />
       <recent name="D:\kultimos\Java_Interview\quick_kafka_video_study\images" />
       <recent name="D:\kultimos\Java_Interview\images" />
-      <recent name="D:\kultimos\Java_Interview\images\springboot" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadPoolKnowEnd">
-    <configuration name="LockInterruptExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.LockInterruptExample" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java_Interview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadFactoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.ThreadFactoryExample" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedInterruptExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.SynchronizedInterruptExample" />
+    <configuration name="ThreadPoolCallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.four.ThreadPoolCallableExample" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="juc.*" />
+          <option name="PATTERN" value="juc.four.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="huawei_od_test.Test3" />
+    <configuration name="ThreadPoolCountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.four.ThreadPoolCountDownLatchExample" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="huawei_od_test.*" />
+          <option name="PATTERN" value="juc.four.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,25 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="huawei_od_test.Test4" />
+    <configuration name="ThreadPoolTaskExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.four.ThreadPoolTaskExample" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="huawei_od_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPoolKnowEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.ThreadPoolKnowEnd" />
-      <module name="Java_Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="juc.*" />
+          <option name="PATTERN" value="juc.four.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +147,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LockInterruptExample" />
-      <item itemvalue="Application.SynchronizedInterruptExample" />
-      <item itemvalue="Application.Test3" />
-      <item itemvalue="Application.Test4" />
-      <item itemvalue="Application.ThreadPoolKnowEnd" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ThreadFactoryExample" />
+      <item itemvalue="Application.ThreadPoolCallableExample" />
+      <item itemvalue="Application.ThreadPoolCountDownLatchExample" />
+      <item itemvalue="Application.ThreadPoolTaskExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadPoolKnowEnd" />
-        <item itemvalue="Application.LockInterruptExample" />
-        <item itemvalue="Application.SynchronizedInterruptExample" />
-        <item itemvalue="Application.Test4" />
-        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ThreadFactoryExample" />
+        <item itemvalue="Application.ThreadPoolCountDownLatchExample" />
+        <item itemvalue="Application.ThreadPoolCallableExample" />
+        <item itemvalue="Application.ThreadPoolTaskExample" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +203,16 @@
       <workItem from="1711071248338" duration="13684000" />
       <workItem from="1711098370001" duration="1653000" />
       <workItem from="1711157731038" duration="1369000" />
-      <workItem from="1711349670597" duration="32728000" />
+      <workItem from="1711349670597" duration="33229000" />
+      <workItem from="1711454245547" duration="5504000" />
+      <workItem from="1711501827233" duration="13358000" />
+      <workItem from="1711539386219" duration="3784000" />
+      <workItem from="1711597347600" duration="3753000" />
+      <workItem from="1711694697732" duration="5498000" />
+      <workItem from="1711704257737" duration="1766000" />
+      <workItem from="1711875077245" duration="9989000" />
+      <workItem from="1711936178150" duration="1938000" />
+      <workItem from="1711938132435" duration="5600000" />
     </task>
     <servers />
   </component>

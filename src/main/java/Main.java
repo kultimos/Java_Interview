@@ -1,9 +1,19 @@
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+import java.util.stream.Collectors;
 
 public class Main {
-    public static void main(String[] args) {
-        // 2 3 6 4 5 1
-        HashMap hashMap = new HashMap();
-        System.out.println("先开始背哪个" + new Random().nextInt(7));
+
+
+    public static void main(String[] args) throws InterruptedException {
+        CountDownLatch countDownLatch = new CountDownLatch(12);
+        Lock lock = new ReentrantLock();
+        Condition condition = lock.newCondition();
+        condition.await();
+        ConcurrentHashMap m = new ConcurrentHashMap();
     }
 }

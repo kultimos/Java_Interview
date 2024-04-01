@@ -1,0 +1,2 @@
+list.stream().max(Integer::compareTo).get()
+//需要注意不加get()的话,得到的是一个Optional对象,不是Integer类型的;
