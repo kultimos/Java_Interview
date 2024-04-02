@@ -5,34 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/huawei_od_test/Test6(40分钟自做成功)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/images/一致性hash示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/10.死锁的发生原因和如何避免死锁.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/11.谈一下CAS机制.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/12.volatile关键字有什么用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/5.线程池的几个重要参数和工作原理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/6.线程池的拒绝策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/7.谈谈你对AQS的理解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/8.AQS为什么采用双向链表而不是单向链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/9.ConcurrentHashMap的底层原理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/1.JVM内存模型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/2.JVM垃圾回收.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/huawei_od_test/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/huawei_od_test/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juc/ThreadFactoryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCallableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCountDownLatchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolTaskExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream_test/1.求出List(Integer)中的最大值" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaomi/1.小米武汉面经.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/huawei_od_test/Test4" beforeDir="false" afterPath="$PROJECT_DIR$/huawei_od_test/Test4(自做成功)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/15.Java中WeakReference和SoftReference的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/15.Java中的四种引用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/5.线程池的几个重要参数.md" beforeDir="false" afterPath="$PROJECT_DIR$/huawei_od_test/Test5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/6.谈谈你对AQS的理解.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/17.什么是幂等,如何解决幂等性的问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/7.死锁的发生原因和如何避免死锁.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/9.分布式存储算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/8_jvm/1.JVM内存模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/1.JVM内存模型.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/juc/ThreadPoolKnowEnd.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/SSG_BLK_JUC&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -212,7 +188,10 @@
       <workItem from="1711704257737" duration="1766000" />
       <workItem from="1711875077245" duration="9989000" />
       <workItem from="1711936178150" duration="1938000" />
-      <workItem from="1711938132435" duration="5600000" />
+      <workItem from="1711938132435" duration="6168000" />
+      <workItem from="1711958943766" duration="4209000" />
+      <workItem from="1711970533183" duration="5404000" />
+      <workItem from="1712020797652" duration="4014000" />
     </task>
     <servers />
   </component>
