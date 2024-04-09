@@ -5,22 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/18.JDK1.8的新特性都有什么,介绍一下.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/10.讲一下当前读和快照读的区别和命令.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/9.讲一下mysql中的锁.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face1/1.ReentrantLock的可重入是怎么实现的.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face1/2.怎么理解http无状态协议.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face1/3.linux查看所有线程命令.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face2/1.ThreadLocal可以保证线程安全吗.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face2/2.ThreadLocal的内存泄漏问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face2/3.http和https的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face2/4.三次握手和四次挥手.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face2/5.ArrayList的扩容机制.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face2/6.join()和yield()方法的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaomi/face2/7.Java创建对象的方式有哪些.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/2_kafka/22.如何避免kafka的重复消费或说一下kafka的幂等性.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/10.速成应对面试版.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/3.说一下你熟悉的垃圾回收器.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huawei_od_test/Test1" beforeDir="false" afterPath="$PROJECT_DIR$/code_test/huawei_od_test/Test1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huawei_od_test/Test2" beforeDir="false" afterPath="$PROJECT_DIR$/code_test/huawei_od_test/Test2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huawei_od_test/Test3(自做成功)" beforeDir="false" afterPath="$PROJECT_DIR$/code_test/huawei_od_test/Test3(自做成功)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huawei_od_test/Test4(自做成功)" beforeDir="false" afterPath="$PROJECT_DIR$/code_test/huawei_od_test/Test4(自做成功)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huawei_od_test/Test5" beforeDir="false" afterPath="$PROJECT_DIR$/code_test/huawei_od_test/Test5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huawei_od_test/Test6(40分钟自做成功)" beforeDir="false" afterPath="$PROJECT_DIR$/code_test/huawei_od_test/Test6(40分钟自做成功)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/3_java_collections/E.hashMap学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/3.hashMap学习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/9.讲一下mysql中的锁.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/9.讲一下mysql中的锁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/record.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_record/record.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xiaomi/1.小米武汉面经.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_test/1.求出List(Integer)中的最大值" beforeDir="false" afterPath="$PROJECT_DIR$/code_test/stream_test/1.求出List(Integer)中的最大值" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face1/1.ReentrantLock的可重入是怎么实现的.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/13.ReentrantLock的可重入是怎么实现的.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face1/2.怎么理解http无状态协议.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/9_internet/1.怎么理解http无状态协议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face1/3.linux查看所有线程命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/10_linux/1.linux查看所有线程命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face2/1.ThreadLocal可以保证线程安全吗.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/14.ThreadLocal可以保证线程安全吗.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face2/2.ThreadLocal的内存泄漏问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/2.ThreadLocal的内存泄漏问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face2/3.http和https的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/9_internet/2.http和https的区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face2/4.三次握手和四次挥手.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/9_internet/3.三次握手和四次挥手.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face2/5.ArrayList的扩容机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/4.ArrayList的扩容机制.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face2/6.join()和yield()方法的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/15.join()和yield()方法的区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaomi/face2/7.Java创建对象的方式有哪些.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/19.Java创建对象的方式有哪些.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,30 +59,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/kultimos/SSG_REFLEX",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.36666667"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.36666667&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fa9b8d075d9a69d9b68a1f774a109841&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\kultimos\Java_Interview\daily_picture" />
       <recent name="D:\kultimos\Java_Interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\kultimos\Java_Interview\interview_note\6_redis\images" />
-      <recent name="D:\kultimos\Java_Interview\interview_note\kafka\images" />
-      <recent name="D:\kultimos\Java_Interview\quick_kafka_video_study\notes" />
-      <recent name="D:\kultimos\Java_Interview\quick_kafka_video_study\images" />
-      <recent name="D:\kultimos\Java_Interview\images" />
+      <recent name="D:\kultimos\Java_Interview\interview_note\9_internet" />
+      <recent name="D:\kultimos\Java_Interview\interview_note\7_juc" />
+      <recent name="D:\kultimos\Java_Interview\interview_note\1_java_foundation" />
+      <recent name="D:\kultimos\Java_Interview\code_test" />
+      <recent name="D:\kultimos\Java_Interview\interview_note\3_java_collections" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -208,7 +220,18 @@
       <workItem from="1712048737729" duration="3638000" />
       <workItem from="1712062530537" duration="800000" />
       <workItem from="1712108105863" duration="12254000" />
-      <workItem from="1712135119539" duration="2087000" />
+      <workItem from="1712135119539" duration="2896000" />
+      <workItem from="1712195530166" duration="1111000" />
+      <workItem from="1712458216676" duration="70000" />
+      <workItem from="1712458295256" duration="4000" />
+      <workItem from="1712492789978" duration="439000" />
+      <workItem from="1712539640801" duration="7427000" />
+      <workItem from="1712549291652" duration="2571000" />
+      <workItem from="1712559031742" duration="411000" />
+      <workItem from="1712563840332" duration="98000" />
+      <workItem from="1712566988885" duration="5570000" />
+      <workItem from="1712642085704" duration="742000" />
+      <workItem from="1712643493069" duration="882000" />
     </task>
     <servers />
   </component>
@@ -266,7 +289,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>17</line>
+          <line>18</line>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
