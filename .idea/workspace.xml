@@ -5,17 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code_test/sql_test/question_Explanation/medium/leetCode_626_换座位(0).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_test/sql_test/tech_tips.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/2_kafka/23.kafka的rebalance机制(腾讯智云一面面试题).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/3_java_collections/5.PriorityQueue源码分析.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/3_java_collections/5_最小二叉堆示意图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/11.redis中String的底层原理(腾讯智云一面面试题).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/12.redis7新特性.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/tips.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aNewsBot/1.mysql的几个坑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/11.distributed_devops/1.介绍一下分布式共识算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/11.distributed_devops/2.介绍一下raft算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/15.Java中的四种引用(1).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/20.什么是反射.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/21.说一下类加载的流程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/22.说一下双亲委派机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/11.Mysql中的解析器是干嘛的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/12.数据库缓冲池,了解吗.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/13.InnoDB与MyISAM的对比.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_springboot/2.如何理解springboot中约定大于配置大于编码这种说法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_springboot/3.阐述静态代理的局限性.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_springboot/4.讲一下JDK动态代理和cglib动态代理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/13.redis单线程相关理论和面试题(1).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/14.为什么redis集群的最大槽数是16384.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/2.请分别说出redis的各个类型的五个常用命令(1).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips/1.虚拟机克隆.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/3_java_collections/4.ArrayList的扩容机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/4.ArrayList的扩容机制.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/13.解释什么是不可变对象(immutable object).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/13.解释什么是不可变对象(immutable object)(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/15.Java中的四种引用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/17.什么是幂等,如何解决幂等性的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/17.什么是幂等,如何解决幂等性的问题(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/18.java8的新特性.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/18.java8的新特性.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/3.请简述kafka的文件存储机制或kafka的存储方案(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/3.请简述kafka的文件存储机制或kafka的存储方案(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/6.解释一下AR、ISR、OSR、HW、LW、LEO、LSO的意义和作用.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/6.解释一下AR、ISR、OSR、HW、LW、LEO、LSO的意义和作用(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/1.简述redis的数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/1.简述redis的数据类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/10.速成应对面试版.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/10.redis中的数据删除策略.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/2.解释一下redis单进程单线程的问题(1).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/4.阐述redis的持久化机制(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/4.阐述redis的持久化机制(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/6.数据库和缓存不一致如何解决或Mysql和Redis的数据同步问题(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/6.数据库和缓存不一致如何解决或Mysql和Redis的数据同步问题(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/7.redis分布式锁的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/7.redis分布式锁的问题※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/8.redis过期键的删除策略.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/8.redis过期键的删除策略.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/9.分布式存储算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/9.分布式存储算法(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下(2).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/12.volatile关键字有什么用.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/12.volatile关键字有什么用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/14.ThreadLocal可以保证线程安全吗.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/14.ThreadLocal可以保证线程安全吗.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/15.ThreadLocal的内存泄漏问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/15.ThreadLocal的内存泄漏问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/2.Lock和Synchronized的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/2.Lock和Synchronized的区别(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/3.请你介绍一下synchronized的几种锁和锁升级情况.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/3.请你介绍一下synchronized的几种锁和锁升级情况.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/5.线程池的几个重要参数和工作原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/5.线程池的几个重要参数和工作原理(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/7.谈谈你对AQS的理解.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/7.谈谈你对AQS的理解.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/8.AQS为什么采用双向链表而不是单向链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/8.AQS为什么采用双向链表而不是单向链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/9.ConcurrentHashMap的底层原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/9.ConcurrentHashMap的底层原理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/9_internet/3.三次握手和四次挥手.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/9_internet/3.三次握手和四次挥手.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/foundation/forCompare/forComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/foundation/forCompare/forComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_eight/function_interface/MyFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_eight/function_interface/MyFunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_eight/function_interface/TestFunctionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_eight/function_interface/TestFunctionInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_eight/interface_method/DemoInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_eight/interface_method/DemoInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_eight/method_quote/ShowMethodQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_eight/method_quote/ShowMethodQuote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCallableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCallableExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +89,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/LEETCODE_RECORD&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview/interview_note/6_redis&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.36666667&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;fa9b8d075d9a69d9b68a1f774a109841&quot;
   }
 }</component>
@@ -62,6 +103,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview\interview_note\6_redis" />
+      <recent name="D:\kultimos\Java_Interview\interview_note\4_mysql" />
       <recent name="D:\kultimos\Java_Interview\daily_picture" />
       <recent name="D:\kultimos\Java_Interview" />
     </key>
@@ -73,7 +116,7 @@
       <recent name="D:\kultimos\Java_Interview\interview_note\1_java_foundation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ThreadPoolCallableExample">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java_Interview" />
@@ -94,21 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadFactoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.ThreadFactoryExample" />
-      <module name="Java_Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPoolCountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.four.ThreadPoolCountDownLatchExample" />
+    <configuration name="ThreadPoolCallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.four.ThreadPoolCallableExample" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +150,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one_basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.regex_test.one_basic" />
+    <configuration name="forComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="foundation.forCompare.forComparator" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.regex_test.*" />
+          <option name="PATTERN" value="foundation.forCompare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_eight.function_interface.TestFunctionInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_eight.function_interface.TestFunctionInterface" />
+      <module name="Java_Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_eight.function_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +177,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ThreadPoolCallableExample" />
+      <item itemvalue="Application.forComparator" />
+      <item itemvalue="Application.java_eight.function_interface.TestFunctionInterface" />
       <item itemvalue="Application.TestFunctionInterface" />
-      <item itemvalue="Application.one_basic" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ThreadFactoryExample" />
-      <item itemvalue="Application.ThreadPoolCountDownLatchExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadPoolCallableExample" />
+        <item itemvalue="Application.forComparator" />
+        <item itemvalue="Application.java_eight.function_interface.TestFunctionInterface" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestFunctionInterface" />
-        <item itemvalue="Application.one_basic" />
-        <item itemvalue="Application.ThreadFactoryExample" />
-        <item itemvalue="Application.ThreadPoolCountDownLatchExample" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +275,43 @@
       <workItem from="1713162266727" duration="2292000" />
       <workItem from="1713169260821" duration="7429000" />
       <workItem from="1713179071288" duration="742000" />
-      <workItem from="1713785629206" duration="315000" />
+      <workItem from="1713785629206" duration="426000" />
+      <workItem from="1713878611102" duration="39000" />
+      <workItem from="1714114647417" duration="6682000" />
+      <workItem from="1714390176560" duration="1533000" />
+      <workItem from="1714462535923" duration="4789000" />
+      <workItem from="1714957851068" duration="97000" />
+      <workItem from="1714959724087" duration="1384000" />
+      <workItem from="1714987867261" duration="7111000" />
+      <workItem from="1715064200821" duration="1899000" />
+      <workItem from="1715071474163" duration="2247000" />
+      <workItem from="1715131451247" duration="373000" />
+      <workItem from="1715235802502" duration="2705000" />
+      <workItem from="1715325358430" duration="4391000" />
+      <workItem from="1715600365969" duration="1259000" />
+      <workItem from="1715654440068" duration="758000" />
+      <workItem from="1715678934577" duration="270000" />
+      <workItem from="1715767967783" duration="764000" />
+      <workItem from="1715853379447" duration="109000" />
+      <workItem from="1715947577840" duration="38000" />
+      <workItem from="1716542501986" duration="100000" />
+      <workItem from="1716791824201" duration="3031000" />
+      <workItem from="1716797363779" duration="72000" />
+      <workItem from="1716800988215" duration="1318000" />
+      <workItem from="1716878396892" duration="8533000" />
+      <workItem from="1716945842081" duration="6951000" />
+      <workItem from="1716966535230" duration="632000" />
+      <workItem from="1716969295468" duration="1770000" />
+      <workItem from="1716971427295" duration="3004000" />
+      <workItem from="1716984220047" duration="3156000" />
+      <workItem from="1717037276586" duration="10449000" />
+      <workItem from="1717060460984" duration="3400000" />
+      <workItem from="1717064075918" duration="1069000" />
+      <workItem from="1717140559316" duration="508000" />
+      <workItem from="1717144153167" duration="6156000" />
+      <workItem from="1717152243980" duration="133000" />
+      <workItem from="1717662163054" duration="5648000" />
+      <workItem from="1718094779442" duration="4656000" />
     </task>
     <servers />
   </component>

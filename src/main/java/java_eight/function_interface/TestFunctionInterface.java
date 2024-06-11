@@ -1,4 +1,4 @@
-package java_eight;
+package java_eight.function_interface;
 
 import java.util.function.Function;
 

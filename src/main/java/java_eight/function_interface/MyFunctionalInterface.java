@@ -1,4 +1,4 @@
-package java_eight;
+package java_eight.function_interface;
 
 /**
  * 函數式接口特性阐述类

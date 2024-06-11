@@ -1,6 +1,7 @@
 package foundation.forCompare;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 class StudentC {
     private int id;
@@ -42,9 +43,15 @@ public class forComparator {
         students.add(new StudentC(1, "Bob"));
         students.add(new StudentC(2, "Cathy"));
         Collections.sort(students, new IdComparator());
+        Collections.sort(students, ((o1, o2) -> o2.getId() - o1.getId()));
         System.out.println("Sorted students using Comparator:");
         for (StudentC student : students) {
             System.out.println(student);
         }
+        Map<String, StudentC> studentMap1 = students.stream().collect(Collectors.toMap(s -> s.getName(), s->s));
+        Map<String, StudentC> studentMap2 = students.stream().collect(Collectors.toMap(StudentC::getName, k -> k));
+        System.out.println(studentMap1);
+        System.out.println("----------------------");
+        System.out.println(studentMap2);
     }
 }

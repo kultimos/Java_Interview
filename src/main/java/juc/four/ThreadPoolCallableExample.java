@@ -24,7 +24,7 @@ public class ThreadPoolCallableExample implements Callable<String> {
         return taskName;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         int numOfTasks = 5;
 
         // Create a thread pool with 3 threads
@@ -46,6 +46,7 @@ public class ThreadPoolCallableExample implements Callable<String> {
             try {
                 // Retrieve the result of the task
                 future.get();
+                System.out.println("看看结束了没" + future.isDone());;
                 completedTasks++;
             } catch (InterruptedException | ExecutionException e) {
                 e.printStackTrace();
@@ -54,9 +55,9 @@ public class ThreadPoolCallableExample implements Callable<String> {
         System.out.println("第二次看" + executor.isTerminated());
 
         // Shutdown the thread pool after all tasks are completed
-        executor.shutdown();
+        executor.shutdownNow();
         System.out.println("Total completed tasks: " + completedTasks);
-
+        Thread.sleep(1000);
         System.out.println("第三次看" + executor.isTerminated());
     }
 }
