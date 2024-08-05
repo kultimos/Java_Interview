@@ -5,21 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/daily_picture/top_performers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/图示.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/12_real_sql_test/1.查询表中重复出现的名字都有哪些【沃丰科技】.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/29.索引覆盖的概念和优点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/30.索引下推的概念和优点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/31.count()不同参数的区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/32.数据库的设计三范式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/33.数据库调优步骤.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/34.显式事务与隐式事务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/35.redo log的刷盘策略.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/36.mysql对于死锁的处理策略.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/37.什么是MVCC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/38.快照读和当前读.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/39.ReadView.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/18.concurrentHashMap源码分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/4.JVM调优的思路.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/5.JVM参数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/9_internet/5.http常见状态码的概念.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/14.kafka的副本follower和leader出现故障时,都是如何解决的.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/14.kafka的副本follower和leader出现故障时,都是如何解决的.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/20.如何避免kafka中的消息重复消费(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/20.如何避免kafka中的消息重复消费(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/22.如何避免kafka的重复消费或说一下kafka的幂等性.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/22.如何避免kafka的重复消费或说一下kafka的幂等性.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/23.kafka的rebalance机制(腾讯智云一面面试题).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/23.kafka的rebalance机制(腾讯智云一面面试题).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/20.数据页加载的方式有哪些.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/20.数据页加载的方式有哪些.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/21.为什么要有区、段、碎片区※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/21.为什么要有区、段、碎片区※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/22.索引的分类.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/22.索引的分类.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/23.Mysql8中索引的新特性.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/23.Mysql8中索引的新特性.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/24.适合创建索引的情况.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/24.适合创建索引的情况.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/25.通常一张表我们最多建多少个索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/25.通常一张表我们最多建多少个索引.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/26.不适合建立索引的情况.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/26.不适合建立索引的情况.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/27.最左前缀法则.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/27.最左前缀法则.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/28.索引失效情况.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/28.索引失效情况.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/11.distributed_devops/1.介绍一下分布式共识算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/11_distributed_devops/1.介绍一下分布式共识算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/11.distributed_devops/2.介绍一下raft算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/11_distributed_devops/2.介绍一下raft算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/3_java_collections/4.ArrayList的扩容机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/4.ArrayList的扩容机制※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/9.讲一下mysql中的锁.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/9.讲一下mysql中的锁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/1.Springboot自动装配原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_springboot/1.Springboot自动装配原理※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/2.如何理解springboot中约定大于配置大于编码这种说法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_springboot/2.如何理解springboot中约定大于配置大于编码这种说法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/5.@Resource和@Autowired的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_springboot/5.@Resource和@Autowired的区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/3.redis字符串类型的值能存储最大容量是多少.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/3.redis数据类型的最大值是多少.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/9.ConcurrentHashMap的底层原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/6.ConcurrentHashMap的底层原理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/8_jvm/1.JVM内存模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/1.JVM内存模型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/8_jvm/3.说一下你熟悉的垃圾回收器.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/3.说一下你熟悉的垃圾回收器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +71,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.ForAssert.executor&quot;: &quot;Run&quot;,
     &quot;Application.FtMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
     &quot;Application.TestFunctionInterface.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -63,7 +79,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/SSG_MYSQL&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview/daily_picture&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -82,20 +98,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview\daily_picture" />
       <recent name="D:\kultimos\Java_Interview\interview_note\6_redis" />
       <recent name="D:\kultimos\Java_Interview\interview_note\4_mysql" />
-      <recent name="D:\kultimos\Java_Interview\daily_picture" />
       <recent name="D:\kultimos\Java_Interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview\images" />
+      <recent name="D:\kultimos\Java_Interview\interview_note\3_java_collections" />
       <recent name="D:\kultimos\Java_Interview\interview_note\6_redis" />
       <recent name="D:\kultimos\Java_Interview\code_test\sql_test\question_Explanation\medium" />
       <recent name="D:\kultimos\Java_Interview\interview_note\9_internet" />
-      <recent name="D:\kultimos\Java_Interview\interview_note\7_juc" />
-      <recent name="D:\kultimos\Java_Interview\interview_note\1_java_foundation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestFunctionInterface">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ForAssert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="foundation.ForAssert" />
       <module name="Java_Interview" />
@@ -165,8 +181,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestFunctionInterface" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestFunctionInterface" />
         <item itemvalue="Application.ForAssert" />
         <item itemvalue="Application.FtMain" />
         <item itemvalue="Application.ThreadPoolCallableExample" />
@@ -308,7 +324,13 @@
       <workItem from="1722217256925" duration="24000" />
       <workItem from="1722237948532" duration="14873000" />
       <workItem from="1722303764631" duration="272000" />
-      <workItem from="1722304229983" duration="652000" />
+      <workItem from="1722304229983" duration="20658000" />
+      <workItem from="1722389326355" duration="15714000" />
+      <workItem from="1722477488238" duration="287000" />
+      <workItem from="1722478191964" duration="18260000" />
+      <workItem from="1722563480782" duration="1698000" />
+      <workItem from="1722838812825" duration="10737000" />
+      <workItem from="1722857280437" duration="5000" />
     </task>
     <servers />
   </component>
