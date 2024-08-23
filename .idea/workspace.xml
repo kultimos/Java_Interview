@@ -5,36 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/daily_picture/top_performers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/图示.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/12_real_sql_test/1.查询表中重复出现的名字都有哪些【沃丰科技】.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/29.索引覆盖的概念和优点.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/30.索引下推的概念和优点.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/31.count()不同参数的区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/32.数据库的设计三范式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/33.数据库调优步骤.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/34.显式事务与隐式事务.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/35.redo log的刷盘策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/36.mysql对于死锁的处理策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/37.什么是MVCC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/38.快照读和当前读.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/39.ReadView.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/7_juc/18.concurrentHashMap源码分析.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/4.JVM调优的思路.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/5.JVM参数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/9_internet/5.http常见状态码的概念.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/double_week_od_prapare/1.基本做不出来(200分).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/double_week_od_prapare/pic/输出用例1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/12_real_sql_test/2.查询订单表中一年内不同月份的订单数量【郑州泰码】.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/40.举例说明一个mysql死锁的场景(侏罗纪面试题).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/41.mysql最左匹配的原理从索引结构解释一下.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/9.自增锁是如何保证多个事务向表中插入数据时,主键的唯一性呢※.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/10.声明式事务在哪些情况会失效.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/4.spring中使用到了哪些设计模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/6.spring中的事务传播机制※.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/7.spring容器启动时会干什么.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/8.Spring中事务的种类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/9.Spring中的事务隔离级别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/15.skipList的数据结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/16.redis中各种数据类型的数据结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/22.说一下双亲委派机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/6.如何通过配置堆内存来提升服务吞吐量.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/7.生产环境cpu突然飚高,如何排查.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/TestTransaction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/11.distributed_devops/1.介绍一下分布式共识算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/11_distributed_devops/1.介绍一下分布式共识算法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/11.distributed_devops/2.介绍一下raft算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/11_distributed_devops/2.介绍一下raft算法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/3_java_collections/4.ArrayList的扩容机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/4.ArrayList的扩容机制※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/9.讲一下mysql中的锁.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/9.讲一下mysql中的锁.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/1.Springboot自动装配原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_springboot/1.Springboot自动装配原理※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/2.如何理解springboot中约定大于配置大于编码这种说法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_springboot/2.如何理解springboot中约定大于配置大于编码这种说法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/5.@Resource和@Autowired的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_springboot/5.@Resource和@Autowired的区别.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/3.redis字符串类型的值能存储最大容量是多少.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/3.redis数据类型的最大值是多少.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/9.ConcurrentHashMap的底层原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/6.ConcurrentHashMap的底层原理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/8_jvm/1.JVM内存模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/1.JVM内存模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/8_jvm/3.说一下你熟悉的垃圾回收器.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/3.说一下你熟悉的垃圾回收器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/15.※Java中的四种引用.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/15.※Java中的四种引用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/18.java8的新特性※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/18.java8的新特性※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/19.Java创建对象的方式有哪些※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/19.Java创建对象的方式有哪些※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/20.什么是反射※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/20.什么是反射※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/21.说一下类加载的流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/21.说一下类加载的流程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/22.说一下双亲委派机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/double_week_od_prapare/2.这个题有点东西(100分).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/23.slf4j相比于log4j好在哪里,为什么你的日志选择slf4j.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/23.slf4j相比于log4j好在哪里,为什么你的日志选择slf4j.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/16.简述kafka的文件清理策略或日志保留策略或刷盘机制(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/16.简述kafka的文件清理策略或日志保留策略或刷盘机制※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/17.解释什么是kafka的页缓冲PageCache※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/17.解释什么是kafka的页缓冲PageCache※※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/18.kafka的零拷贝.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/18.kafka的零拷贝(世纪魅族面试题).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/21.kafka是如何实现高吞吐率的.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/21.kafka是如何实现高吞吐率的(世纪魅族面试题)※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/3_java_collections/6.ConcurrentHashMap的底层原理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/10.讲一下当前读和快照读的区别和命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/10.讲一下当前读和快照读的区别和命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/13.InnoDB与MyISAM的对比.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/13.InnoDB与MyISAM的对比※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/37.什么是MVCC.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/37.什么是MVCC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/1.Springboot自动装配原理※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_spring_all/1.Springboot自动装配原理※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/2.如何理解springboot中约定大于配置大于编码这种说法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_spring_all/2.如何理解springboot中约定大于配置大于编码这种说法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/3.阐述静态代理的局限性.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_spring_all/3.阐述静态代理的局限性.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/4.讲一下JDK动态代理和cglib动态代理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/8.讲一下JDK动态代理和cglib动态代理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/5.@Resource和@Autowired的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_spring_all/5.@Resource和@Autowired的区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/11.redis中String的底层原理(腾讯智云一面面试题).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/11.redis中String的底层原理(腾讯智云一面面试题).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下(2).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/15.ThreadLocal的内存泄漏问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/15.ThreadLocal的内存泄漏问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/16.Stream流和并行流有什么区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/16.Stream流和并行流有什么区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/18.concurrentHashMap源码分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/6.concurrentHashMap源码分析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/2.Lock和Synchronized的区别(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/2.Lock和Synchronized的区别※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/3.请你介绍一下synchronized的几种锁和锁升级情况.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/3.请你介绍一下synchronized的几种锁和锁升级情况.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了(1).md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +68,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Go File" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="GOROOT" url="file://C:/Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Collections.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,32 +97,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ForAssert.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FtMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TestFunctionInterface.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview/daily_picture&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.36666667&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;fa9b8d075d9a69d9b68a1f774a109841&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ForAssert.executor": "Run",
+    "Application.FtMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.One.executor": "Debug",
+    "Application.OneTest.executor": "Run",
+    "Application.TestFunctionInterface.executor": "Run",
+    "Application.Two.executor": "Debug",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/megvii/megvii_code/tianshu-backend/tianshu-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.36666667",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider",
+    "spring.configuration.checksum": "fa9b8d075d9a69d9b68a1f774a109841",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -104,44 +143,43 @@
       <recent name="D:\kultimos\Java_Interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\kultimos\Java_Interview\images" />
       <recent name="D:\kultimos\Java_Interview\interview_note\3_java_collections" />
+      <recent name="D:\kultimos\Java_Interview\interview_note\8_jvm" />
+      <recent name="D:\kultimos\Java_Interview\double_week_od_prapare\pic" />
+      <recent name="D:\kultimos\Java_Interview\images" />
       <recent name="D:\kultimos\Java_Interview\interview_note\6_redis" />
-      <recent name="D:\kultimos\Java_Interview\code_test\sql_test\question_Explanation\medium" />
-      <recent name="D:\kultimos\Java_Interview\interview_note\9_internet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ForAssert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="foundation.ForAssert" />
-      <module name="Java_Interview" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="foundation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FtMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="foundation.forTransient.FtMain" />
-      <module name="Java_Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="foundation.forTransient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Two">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java_Interview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="double_week_od_prepare.one.One" />
+      <module name="Java_Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="double_week_od_prepare.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="double_week_od_prepare.one.OneTest" />
+      <module name="Java_Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="double_week_od_prepare.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoolCallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.four.ThreadPoolCallableExample" />
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="double_week_od_prepare.two.Two" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="juc.four.*" />
+          <option name="PATTERN" value="double_week_od_prepare.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestFunctionInterface" />
-      <item itemvalue="Application.ForAssert" />
-      <item itemvalue="Application.FtMain" />
-      <item itemvalue="Application.ThreadPoolCallableExample" />
+      <item itemvalue="Application.Two" />
+      <item itemvalue="Application.OneTest" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.One" />
+      <item itemvalue="Application.TestFunctionInterface" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Two" />
+        <item itemvalue="Application.One" />
+        <item itemvalue="Application.OneTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestFunctionInterface" />
-        <item itemvalue="Application.ForAssert" />
-        <item itemvalue="Application.FtMain" />
-        <item itemvalue="Application.ThreadPoolCallableExample" />
       </list>
     </recent_temporary>
   </component>
@@ -331,6 +369,32 @@
       <workItem from="1722563480782" duration="1698000" />
       <workItem from="1722838812825" duration="10737000" />
       <workItem from="1722857280437" duration="5000" />
+      <workItem from="1722861677571" duration="3755000" />
+      <workItem from="1722908170189" duration="14042000" />
+      <workItem from="1722931443236" duration="5511000" />
+      <workItem from="1723000129975" duration="4391000" />
+      <workItem from="1723014833324" duration="12457000" />
+      <workItem from="1723080858437" duration="2955000" />
+      <workItem from="1723095336925" duration="1757000" />
+      <workItem from="1723105154570" duration="1495000" />
+      <workItem from="1723114340217" duration="1850000" />
+      <workItem from="1723118938752" duration="6697000" />
+      <workItem from="1723168005742" duration="5000" />
+      <workItem from="1723170748575" duration="19899000" />
+      <workItem from="1723272253658" duration="211000" />
+      <workItem from="1723272510160" duration="227000" />
+      <workItem from="1723272746458" duration="757000" />
+      <workItem from="1723427946119" duration="17048000" />
+      <workItem from="1723615534839" duration="6078000" />
+      <workItem from="1723625974552" duration="2434000" />
+      <workItem from="1723705022660" duration="3612000" />
+      <workItem from="1723870499217" duration="600000" />
+      <workItem from="1724031288091" duration="17787000" />
+      <workItem from="1724156124540" duration="3242000" />
+      <workItem from="1724204360728" duration="59000" />
+      <workItem from="1724305783766" duration="14000" />
+      <workItem from="1724377327727" duration="1663000" />
+      <workItem from="1724379281520" duration="36000" />
     </task>
     <servers />
   </component>
@@ -347,6 +411,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -401,28 +469,57 @@
           <line>666</line>
           <option name="timeStamp" value="104" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.201-2/src.zip!/java/util/PriorityQueue.java</url>
           <line>378</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.201-2/src.zip!/java/util/PriorityQueue.java</url>
           <line>697</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.201-2/src.zip!/java/util/PriorityQueue.java</url>
           <line>704</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.201-2/src.zip!/java/util/PriorityQueue.java</url>
           <line>374</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/ArrayList.java</url>
+          <line>580</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/ArrayList.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/ArrayList.java</url>
+          <line>257</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/One.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/One.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Interview$Test4.ic" NAME="Test4 Coverage Results" MODIFIED="1711420588225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
