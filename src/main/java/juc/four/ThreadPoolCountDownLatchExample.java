@@ -35,7 +35,8 @@ public class ThreadPoolCountDownLatchExample {
         public void run() {
             try {
                 // 模拟任务执行
-                Thread.sleep(1000);
+                System.out.println("Task " + taskId + " begin.");
+                Thread.sleep(10000);
                 System.out.println("Task " + taskId + " completed.");
             } catch (InterruptedException e) {
                 e.printStackTrace();

@@ -35,7 +35,7 @@ public class One {
         int maxLen = 0;
 
         for (int i = 0; i < s.length() * 2; i++) {
-            // 第二轮时，i>=s.length()，此时i需要对s.length()求余，避免后面越界
+            // 第二轮时，i>=subject_four.length()，此时i需要对s.length()求余，避免后面越界
             char c = s.charAt(i % s.length());
 
             switch (c) {
@@ -51,7 +51,7 @@ public class One {
             }
 
             if (i < s.length()) {
-                // 第一轮时，i ∈ [0, s.length()), 左闭右开
+                // 第一轮时，i ∈ [0, subject_four.length()), 左闭右开
                 // 记录该状态出现过的所有位置
                 list.get(status).add(i);
             }

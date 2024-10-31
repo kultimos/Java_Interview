@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Test2 {
+public class OneTest2 {
     /**
      * 0x00
      * 所有都出现了偶数次,0b000

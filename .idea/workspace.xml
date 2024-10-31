@@ -5,59 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/double_week_od_prapare/1.基本做不出来(200分).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/double_week_od_prapare/pic/输出用例1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/12_real_sql_test/2.查询订单表中一年内不同月份的订单数量【郑州泰码】.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/40.举例说明一个mysql死锁的场景(侏罗纪面试题).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/41.mysql最左匹配的原理从索引结构解释一下.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/9.自增锁是如何保证多个事务向表中插入数据时,主键的唯一性呢※.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/10.声明式事务在哪些情况会失效.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/4.spring中使用到了哪些设计模式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/6.spring中的事务传播机制※.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/7.spring容器启动时会干什么.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/8.Spring中事务的种类.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/5_spring_all/9.Spring中的事务隔离级别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/15.skipList的数据结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/6_redis/16.redis中各种数据类型的数据结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/22.说一下双亲委派机制.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/6.如何通过配置堆内存来提升服务吞吐量.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/8_jvm/7.生产环境cpu突然飚高,如何排查.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/TestTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/0_record_review_order.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/14_written_test/3.合并两个有序数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/14_written_test/4.爬楼梯.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/14_written_test/5.长度最小的子数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/42.Mysql中执行update语句时,where字句的不同条件会产生对应的什么锁,请举例说明(泰康在线面试题).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/43.显示连接与隐式连接.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Fuvk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/15.※Java中的四种引用.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/15.※Java中的四种引用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/18.java8的新特性※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/18.java8的新特性※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/19.Java创建对象的方式有哪些※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/19.Java创建对象的方式有哪些※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/20.什么是反射※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/20.什么是反射※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/21.说一下类加载的流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/21.说一下类加载的流程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/22.说一下双亲委派机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/double_week_od_prapare/2.这个题有点东西(100分).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/1_java_foundation/23.slf4j相比于log4j好在哪里,为什么你的日志选择slf4j.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/1_java_foundation/23.slf4j相比于log4j好在哪里,为什么你的日志选择slf4j.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/16.简述kafka的文件清理策略或日志保留策略或刷盘机制(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/16.简述kafka的文件清理策略或日志保留策略或刷盘机制※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/17.解释什么是kafka的页缓冲PageCache※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/17.解释什么是kafka的页缓冲PageCache※※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/18.kafka的零拷贝.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/18.kafka的零拷贝(世纪魅族面试题).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/19.kafka如何保障消息不丢失或kafka的消息可靠性方案(1).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/2_kafka/21.kafka是如何实现高吞吐率的.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/2_kafka/21.kafka是如何实现高吞吐率的(世纪魅族面试题)※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/3_java_collections/6.ConcurrentHashMap的底层原理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/10.讲一下当前读和快照读的区别和命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/10.讲一下当前读和快照读的区别和命令.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/13.InnoDB与MyISAM的对比.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/13.InnoDB与MyISAM的对比※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/4_mysql/37.什么是MVCC.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/4_mysql/37.什么是MVCC.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/1.Springboot自动装配原理※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_spring_all/1.Springboot自动装配原理※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/2.如何理解springboot中约定大于配置大于编码这种说法.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_spring_all/2.如何理解springboot中约定大于配置大于编码这种说法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/3.阐述静态代理的局限性.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_spring_all/3.阐述静态代理的局限性.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/4.讲一下JDK动态代理和cglib动态代理.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/8.讲一下JDK动态代理和cglib动态代理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/5_springboot/5.@Resource和@Autowired的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/5_spring_all/5.@Resource和@Autowired的区别.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/6_redis/11.redis中String的底层原理(腾讯智云一面面试题).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/6_redis/11.redis中String的底层原理(腾讯智云一面面试题).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下(2).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/15.ThreadLocal的内存泄漏问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/15.ThreadLocal的内存泄漏问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/16.Stream流和并行流有什么区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/16.Stream流和并行流有什么区别.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/18.concurrentHashMap源码分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/3_java_collections/6.concurrentHashMap源码分析.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/2.Lock和Synchronized的区别(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/2.Lock和Synchronized的区别※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/3.请你介绍一下synchronized的几种锁和锁升级情况.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/3.请你介绍一下synchronized的几种锁和锁升级情况.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/4.线程池如何知道一个线程任务已经执行完成了(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test3(自做成功)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test4(自做成功)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test6(40分钟自做成功)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/sql_test/question_Explanation/medium/leetCode_626_换座位(0).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/sql_test/tech_tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_test/stream_test/1.求出List(Integer)中的最大值" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/double_week_od_prapare/1.基本做不出来(200分).md" beforeDir="false" afterPath="$PROJECT_DIR$/double_week_od_prapare/1.基本做不出来(200分).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/double_week_od_prapare/2.这个题有点东西(100分).md" beforeDir="false" afterPath="$PROJECT_DIR$/double_week_od_prapare/2.这个题有点东西(100分).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/14_written_test/1.用两个线程交替打印1~100奇数和偶数.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/14_written_test/1.用两个线程交替打印1~100奇数和偶数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/14_written_test/2.单链表的反转.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/14_written_test/2.单链表的反转.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下※.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/12.volatile关键字有什么用.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/12.volatile关键字有什么用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/8.AQS为什么采用双向链表而不是单向链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/8.AQS为什么采用双向链表而不是单向链表.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/five/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/five/Five.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/five/FiveTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/five/FiveTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/Four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/FourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/FourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/seven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/seven/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/seven/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/seven/Seven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/six/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/six/Six.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/six/SixTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/six/SixTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/Three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/ThreeTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/ThreeTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/ThreeTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/ThreeTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCountDownLatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCountDownLatchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/written_test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/written_test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tips/2.如何把一个String字符串转为一个char数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/tips/2.如何把一个String字符串转为一个char数组.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,45 +93,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ForAssert.executor": "Run",
-    "Application.FtMain.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.One.executor": "Debug",
-    "Application.OneTest.executor": "Run",
-    "Application.TestFunctionInterface.executor": "Run",
-    "Application.Two.executor": "Debug",
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "configurable.GoLibrariesConfigurable.is.expanded": "true",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/megvii/megvii_code/tianshu-backend/tianshu-master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.36666667",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider",
-    "spring.configuration.checksum": "fa9b8d075d9a69d9b68a1f774a109841",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Five.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FiveTest1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ForAssert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Four.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FtMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fuvk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyRetry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.One.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.OneTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Seven (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Seven (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Seven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Six.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SixTest1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test5.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TestFunctionInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadPoolCountDownLatchExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Three.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ThreeTest1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Two.executor&quot;: &quot;Debug&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kultimos/Java_Interview/daily_picture&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.36666667&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.goide.configuration.GoLibrariesConfigurableProvider&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fa9b8d075d9a69d9b68a1f774a109841&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="double_week_od_prepare.two" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\kultimos\Java_Interview\daily_picture" />
       <recent name="D:\kultimos\Java_Interview\interview_note\6_redis" />
@@ -143,27 +163,20 @@
       <recent name="D:\kultimos\Java_Interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kultimos\Java_Interview\interview_note\15_real_scene" />
       <recent name="D:\kultimos\Java_Interview\interview_note\3_java_collections" />
       <recent name="D:\kultimos\Java_Interview\interview_note\8_jvm" />
       <recent name="D:\kultimos\Java_Interview\double_week_od_prapare\pic" />
       <recent name="D:\kultimos\Java_Interview\images" />
-      <recent name="D:\kultimos\Java_Interview\interview_note\6_redis" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Two">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Java_Interview" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="double_week_od_prepare.one.One" />
+  <component name="RunManager" selected="Application.Fuvk">
+    <configuration name="Fuvk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_test.Fuvk" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="double_week_od_prepare.one.*" />
+          <option name="PATTERN" value="written_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="double_week_od_prepare.one.OneTest" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_test.Test2" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="double_week_od_prepare.one.*" />
+          <option name="PATTERN" value="written_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFunctionInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_eight.function_interface.TestFunctionInterface" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_test.Test3" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_eight.function_interface.*" />
+          <option name="PATTERN" value="written_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +210,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="double_week_od_prepare.two.Two" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_test.Test4" />
       <module name="Java_Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="double_week_od_prepare.two.*" />
+          <option name="PATTERN" value="written_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="written_test.Test5" />
+      <module name="Java_Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="written_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,19 +237,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Two" />
-      <item itemvalue="Application.OneTest" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.One" />
-      <item itemvalue="Application.TestFunctionInterface" />
+      <item itemvalue="Application.Fuvk" />
+      <item itemvalue="Application.Test3" />
+      <item itemvalue="Application.Test4" />
+      <item itemvalue="Application.Test5" />
+      <item itemvalue="Application.Test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Two" />
-        <item itemvalue="Application.One" />
-        <item itemvalue="Application.OneTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestFunctionInterface" />
+        <item itemvalue="Application.Fuvk" />
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -395,6 +421,36 @@
       <workItem from="1724305783766" duration="14000" />
       <workItem from="1724377327727" duration="1663000" />
       <workItem from="1724379281520" duration="36000" />
+      <workItem from="1724402232924" duration="1302000" />
+      <workItem from="1724640365436" duration="640000" />
+      <workItem from="1724671012965" duration="7146000" />
+      <workItem from="1724722704543" duration="14000" />
+      <workItem from="1725004140501" duration="7601000" />
+      <workItem from="1725270559756" duration="9749000" />
+      <workItem from="1725355444003" duration="101000" />
+      <workItem from="1725355557578" duration="11249000" />
+      <workItem from="1725414200440" duration="15621000" />
+      <workItem from="1725770368545" duration="8140000" />
+      <workItem from="1725779984205" duration="89000" />
+      <workItem from="1725953144275" duration="1370000" />
+      <workItem from="1726196972023" duration="2297000" />
+      <workItem from="1727243968589" duration="2611000" />
+      <workItem from="1727250140989" duration="5225000" />
+      <workItem from="1727315047442" duration="2145000" />
+      <workItem from="1727330466276" duration="2045000" />
+      <workItem from="1727347500812" duration="2547000" />
+      <workItem from="1727597125973" duration="604000" />
+      <workItem from="1729587381624" duration="5375000" />
+      <workItem from="1729651234406" duration="24000" />
+      <workItem from="1729651468967" duration="14000" />
+      <workItem from="1729651505410" duration="734000" />
+      <workItem from="1729676347068" duration="1313000" />
+      <workItem from="1729683901347" duration="15573000" />
+      <workItem from="1729761436344" duration="3547000" />
+      <workItem from="1729822276358" duration="3895000" />
+      <workItem from="1729839016581" duration="8778000" />
+      <workItem from="1730108690057" duration="2741000" />
+      <workItem from="1730169142250" duration="66000" />
     </task>
     <servers />
   </component>
@@ -504,15 +560,30 @@
           <line>257</line>
           <option name="timeStamp" value="131" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/One.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="162" />
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/Two.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="168" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/One.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="163" />
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/Three.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/Three.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/Four.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/Four.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="179" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,43 +1,46 @@
 package written_test;
 
-public class Test1 {
+import java.util.concurrent.locks.Lock;
 
-    public static final Object lock = new Object();
-    public static Boolean flag = true; // true表示当前是奇数线程在持有锁  false表示当前是偶数线程在持有锁
+public class Fuvk {
+    public static final Object object = new Object();
+    public static boolean flag = false;
+
     public static void main(String[] args) {
         Thread thread1 = new Thread(() -> {
-            synchronized (lock) {
-                for(int i=1;i<=100;i+=2) {
-                    while(!flag) {
-                        try {
-                            lock.wait();
-                        } catch (InterruptedException e) {
-                            throw new RuntimeException(e);
-                        }
-                    }
-                    System.out.println(i);
-                    flag = false;
-                    lock.notify();
-                }
-            }
-        });
-        Thread thread2 = new Thread(() -> {
-            synchronized (lock) {
-                for(int i=2;i<=100;i+=2) {
+            synchronized (object) {
+                for (int i = 1; i <= 100; i += 2) {
                     while(flag) {
                         try {
-                            lock.wait();
+                            object.wait();
                         } catch (InterruptedException e) {
                             throw new RuntimeException(e);
                         }
                     }
-                    System.out.println(i);
                     flag = true;
-                    lock.notify();
+                    System.out.println(i);
+                    object.notify();
                 }
             }
         });
-        thread1.start();
+
+        Thread thread2 = new Thread(() -> {
+            synchronized (object) {
+                for (int i = 2; i <= 100; i += 2) {
+                    while(!flag) {
+                        try {
+                            object.wait();
+                        } catch (InterruptedException e) {
+                            throw new RuntimeException(e);
+                        }
+                    }
+                    flag = false;
+                    System.out.println(i);
+                    object.notify();
+                }
+            }
+        });
         thread2.start();
+        thread1.start();
     }
 }

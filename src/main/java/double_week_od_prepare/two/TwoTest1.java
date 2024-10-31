@@ -2,7 +2,7 @@ package double_week_od_prepare.two;
 
 import java.util.Scanner;
 
-public class TwoTest {
+public class TwoTest1 {
 
     public static int n;
     public static int m;
