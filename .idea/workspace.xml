@@ -5,55 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/interview_note/0_record_review_order.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/14_written_test/3.合并两个有序数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/14_written_test/4.爬楼梯.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/14_written_test/5.长度最小的子数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/42.Mysql中执行update语句时,where字句的不同条件会产生对应的什么锁,请举例说明(泰康在线面试题).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_note/4_mysql/43.显示连接与隐式连接.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Fuvk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/written_test/Test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test3(自做成功)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test4(自做成功)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/huawei_od_test/Test6(40分钟自做成功)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/sql_test/question_Explanation/medium/leetCode_626_换座位(0).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/sql_test/tech_tips.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test/stream_test/1.求出List(Integer)中的最大值" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/double_week_od_prapare/1.基本做不出来(200分).md" beforeDir="false" afterPath="$PROJECT_DIR$/double_week_od_prapare/1.基本做不出来(200分).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/double_week_od_prapare/2.这个题有点东西(100分).md" beforeDir="false" afterPath="$PROJECT_DIR$/double_week_od_prapare/2.这个题有点东西(100分).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/14_written_test/1.用两个线程交替打印1~100奇数和偶数.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/14_written_test/1.用两个线程交替打印1~100奇数和偶数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/14_written_test/2.单链表的反转.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/14_written_test/2.单链表的反转.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下※.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/1.java有几种线程状态,介绍一下※.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/12.volatile关键字有什么用.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/12.volatile关键字有什么用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_note/7_juc/8.AQS为什么采用双向链表而不是单向链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/7_juc/8.AQS为什么采用双向链表而不是单向链表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/five/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/five/Five.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/five/FiveTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/five/FiveTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/Four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/FourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/FourTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/one/OneTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/seven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/seven/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/seven/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/seven/Seven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/six/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/six/Six.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/six/SixTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/six/SixTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/Three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/ThreeTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/ThreeTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/ThreeTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/three/ThreeTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/double_week_od_prepare/two/TwoTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCountDownLatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juc/four/ThreadPoolCountDownLatchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/written_test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/written_test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tips/2.如何把一个String字符串转为一个char数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/tips/2.如何把一个String字符串转为一个char数组.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -451,6 +403,8 @@
       <workItem from="1729839016581" duration="8778000" />
       <workItem from="1730108690057" duration="2741000" />
       <workItem from="1730169142250" duration="66000" />
+      <workItem from="1730377523498" duration="4149000" />
+      <workItem from="1730448069306" duration="752000" />
     </task>
     <servers />
   </component>
