@@ -1,46 +1,33 @@
 package written_test;
 
+import java.util.Arrays;
 import java.util.concurrent.locks.Lock;
 
 public class Fuvk {
-    public static final Object object = new Object();
-    public static boolean flag = false;
 
     public static void main(String[] args) {
-        Thread thread1 = new Thread(() -> {
-            synchronized (object) {
-                for (int i = 1; i <= 100; i += 2) {
-                    while(flag) {
-                        try {
-                            object.wait();
-                        } catch (InterruptedException e) {
-                            throw new RuntimeException(e);
-                        }
-                    }
-                    flag = true;
-                    System.out.println(i);
-                    object.notify();
-                }
-            }
-        });
+        int[] nums = {2,3,1,2,4,3};
+        System.out.println(method(7, nums));
+    }
 
-        Thread thread2 = new Thread(() -> {
-            synchronized (object) {
-                for (int i = 2; i <= 100; i += 2) {
-                    while(!flag) {
-                        try {
-                            object.wait();
-                        } catch (InterruptedException e) {
-                            throw new RuntimeException(e);
-                        }
-                    }
-                    flag = false;
-                    System.out.println(i);
-                    object.notify();
-                }
+    public static int method(int target, int[] array) {
+        int len = array.length;
+        if(len == 0) {
+            return 0;
+        }
+        int left = 0;
+        int right = 0;
+        int sum = 0;
+        int result = Integer.MAX_VALUE;
+        while(right < len) {
+            sum += array[right];
+            while(sum >=target) {
+                result = Math.min(result, right - left + 1);
+                sum -= array[left];
+                left++;
             }
-        });
-        thread2.start();
-        thread1.start();
+            right++;
+        }
+        return result == Integer.MAX_VALUE ? 0 : result;
     }
 }

@@ -27,4 +27,24 @@ public class Test4 {
         }
         return r;
     }
+
+    public int climbStairs(int num) {
+        int first = 1;
+        int second = 2;
+        int result = 0;
+        if(num == 1) {
+            return first;
+        } else if(num == 2) {
+            return second;
+        } else if(num == 3) {
+            return first + second;
+        } else {
+            for(int i=3;i<=num;i++) {
+                result = first + second; //  5
+                first = second; // 3
+                second = result; // 5
+            }
+        }
+        return result;
+    }
 }

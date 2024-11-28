@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c55a279-1d16-4264-b7dc-656c0f94150a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_note/15_real_scene/2.分布式事务的解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/14_written_test/3.合并两个有序数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/14_written_test/5.长度最小的子数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/14_written_test/5.长度最小的子数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/8_jvm/2.JVM垃圾回收.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/2.JVM垃圾回收.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_note/8_jvm/3.说一下你熟悉的垃圾回收器.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_note/8_jvm/3.说一下你熟悉的垃圾回收器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/written_test/Fuvk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/written_test/Fuvk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/written_test/Test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/written_test/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/written_test/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/written_test/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/written_test/Test5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +79,7 @@
     &quot;Application.Test4.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test5.executor&quot;: &quot;Debug&quot;,
     &quot;Application.TestFunctionInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadPoolCallableExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.ThreadPoolCountDownLatchExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.Three.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ThreeTest1.executor&quot;: &quot;Debug&quot;,
@@ -136,19 +145,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="written_test.Test2" />
-      <module name="Java_Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="written_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="written_test.Test3" />
       <module name="Java_Interview" />
@@ -188,20 +184,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadPoolCallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.four.ThreadPoolCallableExample" />
+      <module name="Java_Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="juc.four.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.ThreadPoolCallableExample" />
       <item itemvalue="Application.Fuvk" />
       <item itemvalue="Application.Test3" />
       <item itemvalue="Application.Test4" />
       <item itemvalue="Application.Test5" />
-      <item itemvalue="Application.Test2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Fuvk" />
         <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.ThreadPoolCallableExample" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -405,6 +414,16 @@
       <workItem from="1730169142250" duration="66000" />
       <workItem from="1730377523498" duration="4149000" />
       <workItem from="1730448069306" duration="752000" />
+      <workItem from="1730771343711" duration="5206000" />
+      <workItem from="1730785928103" duration="622000" />
+      <workItem from="1730805025015" duration="5144000" />
+      <workItem from="1730944803618" duration="1211000" />
+      <workItem from="1730963315263" duration="169000" />
+      <workItem from="1731290046761" duration="5558000" />
+      <workItem from="1731306832114" duration="677000" />
+      <workItem from="1731310716004" duration="1115000" />
+      <workItem from="1731320864821" duration="1873000" />
+      <workItem from="1731376183867" duration="4846000" />
     </task>
     <servers />
   </component>
@@ -538,6 +557,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/double_week_od_prepare/four/Four.java</url>
           <line>23</line>
           <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/written_test/Test5.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="181" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
